@@ -219,7 +219,7 @@ else:
             <div style="font-size:4rem;">🍎</div>
             <p>Sube una imagen de fruta para comenzar</p>
         </div>
-    """)
+    """,unsafe_allow_html=True)
 
 # ============================================================
 # FOOTER
