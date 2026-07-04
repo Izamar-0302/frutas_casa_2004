@@ -225,8 +225,7 @@ else:
 # FOOTER
 # ============================================================
 st.markdown("""
-    <div style="text-align:center; padding:3rem; color:#999;">
-        <div style="font-size:4rem;">🍎</div>
-        <p>Sube una imagen de fruta para comenzar</p>
+    <div class="footer">
+        🍎 Clasificador de Frutas IA • MobileNetV2 • 2026
     </div>
 """, unsafe_allow_html=True)
