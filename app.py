@@ -90,7 +90,7 @@ st.markdown("""
 # MODELO
 # ============================================================
 IMG_SIZE = (224, 224)
-MODEL_DIR = Path("Clasificacion_flores_mobilenet")  # puedes cambiar carpeta si quieres
+MODEL_DIR = Path("Clasificacion_frutas_mobilenet")  # puedes cambiar carpeta si quieres
 CLASS_PATH = MODEL_DIR / "class_names.json"
 MODEL_PATHS = [
     MODEL_DIR / "frutas_mobilenet.keras",
