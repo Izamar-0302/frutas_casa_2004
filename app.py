@@ -75,7 +75,7 @@ st.markdown("""
 # ============================================================
 # ENCABEZADO
 # ============================================================
-st.markdown("🍎")
+
 st.markdown('<h1 class="main-title">Clasificador de Frutas con IA</h1>', unsafe_allow_html=True)
 st.markdown('<p class="subtitle">IA-ISC • Fruits-360 • 2026 • Angeles Euceda</p>', unsafe_allow_html=True)
 
