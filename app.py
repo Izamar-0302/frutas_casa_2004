@@ -205,9 +205,7 @@ if archivo:
             <div style="text-align:center;">
                 <div style="font-size:4rem;">{icono}</div>
                 <div class="winner-badge">{nombre}</div>
-                <p style="font-size:1.2rem; margin-top:1rem;">
-                    Confianza: <b>{ganador_prob:.2f}%</b>
-                </p>
+                
             </div>
         </div>
     """, unsafe_allow_html=True)
