@@ -205,7 +205,6 @@ if archivo:
             <div style="text-align:center;">
                 <div style="font-size:4rem;">{icono}</div>
                 <div class="winner-badge">{nombre}</div>
-                
             </div>
         </div>
     """, unsafe_allow_html=True)
