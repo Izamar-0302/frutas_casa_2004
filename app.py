@@ -10,7 +10,6 @@ from PIL import Image
 # ============================================================
 st.set_page_config(
     page_title="Clasificación de Frutas IA_ISC",
-    page_icon="🍎",
     layout="centered",
     initial_sidebar_state="collapsed"
 )
@@ -226,6 +225,6 @@ else:
 # ============================================================
 st.markdown("""
     <div class="footer">
-        🍎 Clasificador de Frutas IA • MobileNetV2 • 2026
+         Clasificador de Frutas IA • MobileNetV2 • 2026
     </div>
 """, unsafe_allow_html=True)
